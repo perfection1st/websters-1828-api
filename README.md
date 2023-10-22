@@ -1,3 +1,3 @@
-# Websters 1828 dictionary API
+# Websters 1828 Dictionary API
 
-Originally created by @CrossCrusaders, I've converted it to use the BunJS JavaScript runtime.
+Customized for use in my upcoming Best Bible App.
