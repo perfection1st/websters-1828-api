@@ -1,2 +1,3 @@
-# Websters-1828-API
-An open source API allowing you to use the Webster's 1828 dictionary.
+# Websters 1828 dictionary API
+
+Originally created by @CrossCrusaders, I've converted it to use the BunJS JavaScript runtime.
